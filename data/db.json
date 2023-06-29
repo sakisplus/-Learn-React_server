@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Type a name here!",
+      "body": "Type something here!",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Type a name here!",
+      "body": "Type something here!",
+      "author": "yoshi",
+      "id": 4
+    }
+  ]
+}
